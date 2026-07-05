@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0057_000.yaml, hash: 'sha256:d4465aa83f7df2051ff3914c253fd9fee7c720e7d066e9b260d2fc0911abf839'}
-  - {seq: 1, filename: KR6a0057_001.yaml, hash: 'sha256:aa9929d8b2be5b146b70b7bcb006ff228ab6e4933c3c73ae171f12df132c9bda'}
+  - {seq: 1, filename: KR6a0057_001.yaml, hash: 'sha256:d8550d760ecaeaac3d7a717ac06336381aa6d3cbb88917784f5a5c990313312d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0057_001.markers.yaml, hash: 'sha256:68d1546f0731412693b5f44f8f1d1c00267cf51352c6fd3913a7cc7e5d58c24d'}
+  - {seq: 0, role: markers, filename: assets/KR6a0057_000.markers.yaml, hash: 'sha256:30cdadd01b7051e26b0c411d65d384b0c72ee6bc4390e0ebf6bfaa6a79a19b5f'}
+  - {seq: 1, role: markers, filename: assets/KR6a0057_001.markers.yaml, hash: 'sha256:40f69778e501f0fe5ae0859564de3e8aef7522bc9502468138f7fa881a701ea1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說漏分布經出《中阿含》令劫意
   type: juan
   level: 1
-hash: sha256:7c8cddf6a098ebc851cd13f59e83c874d8737e170e163dce09d5f7b528eb55cc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2cf7a494471fa8de99dcca7e75ee16e2de3d39882cd87c01d7f9d5fa8da40dd3

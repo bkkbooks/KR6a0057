@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0057/v1
 canonical_location: https://kanripo.org/bkk/KR6a0057/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 漏分布經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0057_000.yaml, hash: 'sha256:d4465aa83f7df2051ff3914c253fd9fee7c720e7d066e9b260d2fc0911abf839'}
-  - {seq: 1, filename: KR6a0057_001.yaml, hash: 'sha256:d8550d760ecaeaac3d7a717ac06336381aa6d3cbb88917784f5a5c990313312d'}
+  - {seq: 1, filename: KR6a0057_001.yaml, hash: 'sha256:19f9e2321e2f2f74cc6e60841bd5ae6e851b4bb47a6b5fd10ecfaea045a60950'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0057_000.markers.yaml, hash: 'sha256:30cdadd01b7051e26b0c411d65d384b0c72ee6bc4390e0ebf6bfaa6a79a19b5f'}
-  - {seq: 1, role: markers, filename: assets/KR6a0057_001.markers.yaml, hash: 'sha256:40f69778e501f0fe5ae0859564de3e8aef7522bc9502468138f7fa881a701ea1'}
+  - {seq: 1, role: markers, filename: assets/KR6a0057_001.markers.yaml, hash: 'sha256:6b440ea353a77ed1b18fc81a9fa6610f85f91607ab368d26fedaf04890ab39e6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說漏分布經出《中阿含》令劫意
   type: juan
   level: 1
-hash: sha256:2cf7a494471fa8de99dcca7e75ee16e2de3d39882cd87c01d7f9d5fa8da40dd3
+hash: sha256:898fcc06ca912776c2e31d4d132a80afa33f68f48995f832c18c8c139b6b3212
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

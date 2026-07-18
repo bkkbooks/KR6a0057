@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0057_000.yaml, hash: 'sha256:d4465aa83f7df2051ff3914c253fd9fee7c720e7d066e9b260d2fc0911abf839'}
   - {seq: 1, filename: KR6a0057_001.yaml, hash: 'sha256:19f9e2321e2f2f74cc6e60841bd5ae6e851b4bb47a6b5fd10ecfaea045a60950'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0057_000.markers.yaml, hash: 'sha256:30cdadd01b7051e26b0c411d65d384b0c72ee6bc4390e0ebf6bfaa6a79a19b5f'}
+  - {seq: 0, role: markers, filename: assets/KR6a0057_000.markers.yaml, hash: 'sha256:9c8812dfe31cc69993b37552afdc910dff7fa3c67b46a86258bd100053ab83e7'}
   - {seq: 1, role: markers, filename: assets/KR6a0057_001.markers.yaml, hash: 'sha256:6b440ea353a77ed1b18fc81a9fa6610f85f91607ab368d26fedaf04890ab39e6'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說漏分布經出《中阿含》令劫意
   type: juan
   level: 1
-hash: sha256:898fcc06ca912776c2e31d4d132a80afa33f68f48995f832c18c8c139b6b3212
+hash: sha256:3eafa3716e9f641fc2b8080aa6ce4f3636c19a98e6657739525641eaaadee12c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
